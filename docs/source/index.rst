@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Rakhoi TV
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`RakhoiTV <https://rakhoitv.tube/>`_ là điểm đến lý tưởng cho hàng triệu người yêu bóng đá Việt Nam, mang đến trải nghiệm xem bóng đá trực tuyến siêu mượt với chất lượng HD và tốc độ truyền tải lên đến 25 Mbps. RakhoiTV không chỉ phát trực tiếp các trận cầu đỉnh cao từ Champions League, Premier League, La Liga đến V-League mà còn cung cấp bình luận tiếng Việt sôi động, kết nối đam mê của cộng đồng người hâm mộ.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Ngoài ra, RakhoiTV cung cấp thông tin chi tiết về lịch thi đấu, bảng xếp hạng, kết quả và tin tức bóng đá mới nhất. Với giao diện thân thiện, khả năng tương thích trên mọi thiết bị và công nghệ live tiên tiến, RakhoiTV đảm bảo mang lại trải nghiệm giải trí bóng đá tuyệt vời, không giật lag. RakhoiTV là lựa chọn lý tưởng để hòa mình vào không khí cuồng nhiệt của môn thể thao vua mọi lúc, mọi nơi.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 59 Đường Bắc Lân 2, Bà Điểm, Hóc Môn, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Hotline: 0947896667. 
 
-.. toctree::
+Email: rakhoitv.tube@gmail.com. 
 
-   usage
-   api
+Website: https://rakhoitv.tube/ 
+
+#Xoilac #Rakhoi TV #RakhoiTV #Xoilac #tructiepbongda
